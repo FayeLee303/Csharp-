@@ -1,0 +1,8 @@
+E:\VSProjects\Csharp学习\015_Excel操作\bin\Debug\装备信息.xls
+E:\VSProjects\Csharp学习\015_Excel操作\bin\Debug\015_Excel操作.exe.config
+E:\VSProjects\Csharp学习\015_Excel操作\bin\Debug\015_Excel操作.exe
+E:\VSProjects\Csharp学习\015_Excel操作\bin\Debug\015_Excel操作.pdb
+E:\VSProjects\Csharp学习\015_Excel操作\obj\Debug\015_Excel操作.csproj.CoreCompileInputs.cache
+E:\VSProjects\Csharp学习\015_Excel操作\obj\Debug\015_Excel操作.exe
+E:\VSProjects\Csharp学习\015_Excel操作\obj\Debug\015_Excel操作.pdb
+E:\VSProjects\Csharp学习\015_Excel操作\obj\Debug\015_Excel操作.csprojResolveAssemblyReference.cache

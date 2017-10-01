@@ -1,0 +1,7 @@
+E:\VSProjects\Csharp学习\002\bin\Debug\002.exe.config
+E:\VSProjects\Csharp学习\002\bin\Debug\002.exe
+E:\VSProjects\Csharp学习\002\bin\Debug\002.pdb
+E:\VSProjects\Csharp学习\002\obj\Debug\002.csproj.CoreCompileInputs.cache
+E:\VSProjects\Csharp学习\002\obj\Debug\002.exe
+E:\VSProjects\Csharp学习\002\obj\Debug\002.pdb
+E:\VSProjects\Csharp学习\002\obj\Debug\002.csprojResolveAssemblyReference.cache

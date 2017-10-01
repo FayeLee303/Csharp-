@@ -1,0 +1,7 @@
+E:\VSProjects\Csharp学习\006_继承\bin\Debug\006_继承.exe.config
+E:\VSProjects\Csharp学习\006_继承\bin\Debug\006_继承.exe
+E:\VSProjects\Csharp学习\006_继承\bin\Debug\006_继承.pdb
+E:\VSProjects\Csharp学习\006_继承\obj\Debug\006_继承.csproj.CoreCompileInputs.cache
+E:\VSProjects\Csharp学习\006_继承\obj\Debug\006_继承.exe
+E:\VSProjects\Csharp学习\006_继承\obj\Debug\006_继承.pdb
+E:\VSProjects\Csharp学习\006_继承\obj\Debug\006_继承.csprojResolveAssemblyReference.cache

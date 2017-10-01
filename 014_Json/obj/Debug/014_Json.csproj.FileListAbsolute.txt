@@ -1,0 +1,10 @@
+E:\VSProjects\Csharp学习\014_Json\bin\Debug\SkillJson.txt
+E:\VSProjects\Csharp学习\014_Json\bin\Debug\014_Json.exe.config
+E:\VSProjects\Csharp学习\014_Json\bin\Debug\014_Json.exe
+E:\VSProjects\Csharp学习\014_Json\bin\Debug\014_Json.pdb
+E:\VSProjects\Csharp学习\014_Json\bin\Debug\LitJson.dll
+E:\VSProjects\Csharp学习\014_Json\obj\Debug\014_Json.csprojResolveAssemblyReference.cache
+E:\VSProjects\Csharp学习\014_Json\obj\Debug\014_Json.csproj.CoreCompileInputs.cache
+E:\VSProjects\Csharp学习\014_Json\obj\Debug\014_Json.exe
+E:\VSProjects\Csharp学习\014_Json\obj\Debug\014_Json.pdb
+E:\VSProjects\Csharp学习\014_Json\bin\Debug\EnemyJson.txt

@@ -1,0 +1,7 @@
+E:\VSProjects\Csharp学习\008_泛型\bin\Debug\008_泛型.exe.config
+E:\VSProjects\Csharp学习\008_泛型\bin\Debug\008_泛型.exe
+E:\VSProjects\Csharp学习\008_泛型\bin\Debug\008_泛型.pdb
+E:\VSProjects\Csharp学习\008_泛型\obj\Debug\008_泛型.csprojResolveAssemblyReference.cache
+E:\VSProjects\Csharp学习\008_泛型\obj\Debug\008_泛型.csproj.CoreCompileInputs.cache
+E:\VSProjects\Csharp学习\008_泛型\obj\Debug\008_泛型.exe
+E:\VSProjects\Csharp学习\008_泛型\obj\Debug\008_泛型.pdb

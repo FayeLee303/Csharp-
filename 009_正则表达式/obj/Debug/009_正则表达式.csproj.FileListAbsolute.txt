@@ -1,0 +1,7 @@
+E:\VSProjects\Csharp学习\009_正则表达式\bin\Debug\009_正则表达式.exe.config
+E:\VSProjects\Csharp学习\009_正则表达式\bin\Debug\009_正则表达式.exe
+E:\VSProjects\Csharp学习\009_正则表达式\bin\Debug\009_正则表达式.pdb
+E:\VSProjects\Csharp学习\009_正则表达式\obj\Debug\009_正则表达式.csproj.CoreCompileInputs.cache
+E:\VSProjects\Csharp学习\009_正则表达式\obj\Debug\009_正则表达式.exe
+E:\VSProjects\Csharp学习\009_正则表达式\obj\Debug\009_正则表达式.pdb
+E:\VSProjects\Csharp学习\009_正则表达式\obj\Debug\009_正则表达式.csprojResolveAssemblyReference.cache

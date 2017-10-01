@@ -1,0 +1,7 @@
+E:\VSProjects\Csharp学习\008_List\bin\Debug\008_List.exe.config
+E:\VSProjects\Csharp学习\008_List\bin\Debug\008_List.exe
+E:\VSProjects\Csharp学习\008_List\bin\Debug\008_List.pdb
+E:\VSProjects\Csharp学习\008_List\obj\Debug\008_List.csprojResolveAssemblyReference.cache
+E:\VSProjects\Csharp学习\008_List\obj\Debug\008_List.csproj.CoreCompileInputs.cache
+E:\VSProjects\Csharp学习\008_List\obj\Debug\008_List.exe
+E:\VSProjects\Csharp学习\008_List\obj\Debug\008_List.pdb

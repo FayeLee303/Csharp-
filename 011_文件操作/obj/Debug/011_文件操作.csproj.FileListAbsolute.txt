@@ -1,0 +1,9 @@
+E:\VSProjects\Csharp学习\011_文件操作\bin\Debug\011_文件操作.exe.config
+E:\VSProjects\Csharp学习\011_文件操作\bin\Debug\011_文件操作.exe
+E:\VSProjects\Csharp学习\011_文件操作\bin\Debug\011_文件操作.pdb
+E:\VSProjects\Csharp学习\011_文件操作\obj\Debug\011_文件操作.csprojResolveAssemblyReference.cache
+E:\VSProjects\Csharp学习\011_文件操作\obj\Debug\011_文件操作.csproj.CoreCompileInputs.cache
+E:\VSProjects\Csharp学习\011_文件操作\obj\Debug\011_文件操作.exe
+E:\VSProjects\Csharp学习\011_文件操作\obj\Debug\011_文件操作.pdb
+E:\VSProjects\Csharp学习\011_文件操作\bin\Debug\TextFile1.txt
+E:\VSProjects\Csharp学习\011_文件操作\bin\Debug\1111.png

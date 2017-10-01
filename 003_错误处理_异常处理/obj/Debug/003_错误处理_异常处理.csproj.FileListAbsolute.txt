@@ -1,0 +1,7 @@
+E:\VSProjects\Csharp学习\003_错误处理_异常处理\bin\Debug\003_错误处理_异常处理.exe.config
+E:\VSProjects\Csharp学习\003_错误处理_异常处理\bin\Debug\003_错误处理_异常处理.exe
+E:\VSProjects\Csharp学习\003_错误处理_异常处理\bin\Debug\003_错误处理_异常处理.pdb
+E:\VSProjects\Csharp学习\003_错误处理_异常处理\obj\Debug\003_错误处理_异常处理.csproj.CoreCompileInputs.cache
+E:\VSProjects\Csharp学习\003_错误处理_异常处理\obj\Debug\003_错误处理_异常处理.exe
+E:\VSProjects\Csharp学习\003_错误处理_异常处理\obj\Debug\003_错误处理_异常处理.pdb
+E:\VSProjects\Csharp学习\003_错误处理_异常处理\obj\Debug\003_错误处理_异常处理.csprojResolveAssemblyReference.cache

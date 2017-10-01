@@ -1,0 +1,9 @@
+E:\VSProjects\Csharp学习\013_xml例子\bin\Debug\013_xml例子.exe.config
+E:\VSProjects\Csharp学习\013_xml例子\bin\Debug\013_xml例子.exe
+E:\VSProjects\Csharp学习\013_xml例子\bin\Debug\013_xml例子.pdb
+E:\VSProjects\Csharp学习\013_xml例子\obj\Debug\013_xml例子.csprojResolveAssemblyReference.cache
+E:\VSProjects\Csharp学习\013_xml例子\obj\Debug\013_xml例子.csproj.CoreCompileInputs.cache
+E:\VSProjects\Csharp学习\013_xml例子\obj\Debug\013_xml例子.exe
+E:\VSProjects\Csharp学习\013_xml例子\obj\Debug\013_xml例子.pdb
+E:\VSProjects\Csharp学习\013_xml例子\bin\Debug\Skill.cs
+E:\VSProjects\Csharp学习\013_xml例子\bin\Debug\SkillInfo.txt

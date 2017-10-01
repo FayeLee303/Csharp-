@@ -1,0 +1,10 @@
+E:\VSProjects\Csharp学习\005_堆和栈\bin\Debug\005_堆和栈.exe.config
+E:\VSProjects\Csharp学习\005_堆和栈\bin\Debug\005_堆和栈.exe
+E:\VSProjects\Csharp学习\005_堆和栈\bin\Debug\005_堆和栈.pdb
+E:\VSProjects\Csharp学习\005_堆和栈\bin\Debug\004_面向对象编程_类.exe
+E:\VSProjects\Csharp学习\005_堆和栈\bin\Debug\004_面向对象编程_类.pdb
+E:\VSProjects\Csharp学习\005_堆和栈\bin\Debug\004_面向对象编程_类.exe.config
+E:\VSProjects\Csharp学习\005_堆和栈\obj\Debug\005_堆和栈.csprojResolveAssemblyReference.cache
+E:\VSProjects\Csharp学习\005_堆和栈\obj\Debug\005_堆和栈.csproj.CoreCompileInputs.cache
+E:\VSProjects\Csharp学习\005_堆和栈\obj\Debug\005_堆和栈.exe
+E:\VSProjects\Csharp学习\005_堆和栈\obj\Debug\005_堆和栈.pdb
